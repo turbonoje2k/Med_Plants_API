@@ -1,197 +1,199 @@
-[
-        {
-            "id": "Aloes",
-            "name": "Aloés",
-            "Property": "Soulage la plupart des problèmes cutanés."
-        }
-        {
-            "id": "Angélique",
-            "name": "Angélique",
-            "Property": "Stimulant, Soulage les symptômes digestifs."
-        }
-        {
-            "id": "Arnica",
-            "name":"Arnica",
-            "Property": "Anti-inflammatoire, antalgique, contre-coup."
-        }
-        {
-            "id": "Artichaut",
-            "name":"Artichaut",
-            "Property": "Digestif, Diurétique, Dépuratif, Protecteur du foie et des reins."
-        }
-        {
-            "id": "Aubépine",
-            "name": "Aubépine",
-            "Property": "Adoucissante pour la gorge."
-        }
-        {
-            "id": "Avocat",
-            "name": "Avocat",
-            "Property": "Source de nombreux nutriments, nourrit et répare la peau et les cheveux abîmés."
-        }
-        {
-            "id": "Bardanne",
-            "name": "Bardanne",
-            "Property": "Assainissante et dépurative, réputée pour purifer et renforcer la peau."
-        }
-        {
-            "id": "Bourrache",
-            "name": "Bourrache",
-            "Property": "Cicatrisante, émolliente, tonique cutanée"
-        }
-        {
-            "id": "Calendula",
-            "name": "Calendula",
-            "Property": "Calmant, apaise les affections respiratoires, soulage les plaies, les brulures, l'eczéma."
-        }
-        {
-            "id": "Camomille",
-            "name": "Camomille",
-            "Property": "Calmante, adoucissante, digestive."
-        }
-        {
-            "id": "Capucine"
-            "name": "Capucine",
-            "Property": "Antimicrobienne, réputée pour les soins capillaires."
-        }
-        {
-            "id": "Carotte",
-            "name": "Carotte",
-            "Property": "Riche en antioxydants, nourrissante, adoucissante, effet bonne mine."
-        }
-        {
-            "id": "Canelle",
-            "name": "Canelle",
-            "Property": "Tonique, antiseptique, antidouleur."
-        }
-        {
-            "id": "Citron",
-            "name": "Citron",
-            "Property": "Tonique, digestif, antiseptique, adoucissant."
-        }
-        {
-            "id": "Coquelicot",
-            "name": "Coquelicot",
-            "Property": "Antispasmodique, antitussif, adoucissant."
-        }
-        {
-            "id": "Estragon",
-            "name": "Estragon",
-            "Property": "Digestif, antispasmodique (hoquet, coliques)"
-        }
-        {
-            "id": "Eucalyptus",
-            "name": "Eucalyptus",
-            "Property": "Soulage et prévient les affections respiratoires."
-        }
-        {
-            "id": "Fenouil",
-            "name": "Fenouil",
-            "Property": "Digestif et anticarminatif (anti-gaz)."
-        }
-        {
-            "id": "Ginkgo biloba",
-            "name": "Ginkgo biloba",
-            "Property": "Riche en antiox"id"ants, renforce les vaisseaux et améliore la circulation cérébrale."
-        }
-        {
-            "id": "Citron",
-            "name": "Guimauve",
-            "Property": "Adoucissante, pectorale, anti-inflamatoire."
-        }
-        {
-            "id": "Hamamélis",
-            "name": "Hamamélis",
-            "Property": "Astringent et stimulant vasculaire."
-        }
-        {
-            "id": "Hélichryse",
-            "name": "Hélichryse",
-            "Property": "Antiâge, antiride, calme les coups, bosses, hématomes."
-        }
-        {
-            "id": "Lavande",
-            "name": "Lavande",
-            "Property": "Calmante, sédative, cicatrisante, antiseptique."
-        }
-        {
-            "id": "Lierre Grimpant",
-            "name": "Lierre Grimpant",
-            "Property": "Antitussif, cicatrisant, amincissant, tonique circulatoire."
-        }
-        {
-            "id": "Mauve",
-            "name": "Mauve",
-            "Property": "Adoucissante, pectorale, anti-inflammatoire."
-        }
-        {
-            "id": "Menthe",
-            "name": "Menthe",
-            "Property": "Purifiante, rafraichissante, stimulante, tonifiante."
-        }
-        {
-            "id": "Millepertuis",
-            "name": "Millepertuis",
-            "Property": "Utile contre les irritations, et les douleurs articulaires."
-        }
-        {
-            "id": "Ortie",
-            "name": "Ortie",
-            "Property": "Défatigante, reconstituante, reminéralisante, soulage l'eczéma et les douleur articulaires."
-        }
-        {
-            "id": "Passiflore",
-            "name": "Passiflore",
-            "Property": "Apaisante sédative."
-        }
-        {
-            "id": "Pensée sauvage",
-            "name": "Pensée sauvage",
-            "Property": "Dépurative, notamment en cas d'affections cutanées."
-        }
-        {
-            "id": "Pin sylvestre"
-            "name": "Pin sylvestre",
-            "Property": "Tonique, expectorant, antiseptique, rubéfiant."
-        }
-        {
-            "id": "Pissenlit",
-            "name": "Pissenlit",
-            "Property": "Digestif, diurétique et dépuratif (racines). Antioxidant, anti-inflammatoire (fleurs)."
-        }
-        {
-            "id": "Reine des prés",
-            "name": "Reine des prés",
-            "Property": "Anti-inflammatoire, digestive, cicatrisante et dépurative."
-        }
-        {
-            "id": "Ronce",
-            "name": "Ronce",
-            "Property": "Utile contre les maux de gorge ou les aphtes, cicatrisante."
-        }
-        {
-            "id": "Sauge",
-            "name": "Sauge",
-            "Property": "Soulage rhumes, indigestion, piqures d'insectes, irritations cutanées, contusions"
-        }
-        {
-            "id": "Thym",
-            "name": "Thym",
-            "Property": "Digestif, aide à prévenir ou soulager les rhumes"
-        }
-        {
-            "id": "Tilleul",
-            "name": "Tilleul",
-            "Property": "Calmant, relaxant, sédatif."
-        }
-        {
-            "id": "Verveine citronnelle",
-            "name": "Verveine citronnelle",
-            "Property": "Digestive, calmante (sédative)."
-        }
-        {
-            "id": "Violette odorante",
-            "name": "Violette odorante",
-            "Property": "Antitussive, expectorante, sudorifique, calmante, émolliente."
-        }
-    ]
+{
+        [
+                {
+                    "id": "Aloes",
+                    "name": "Aloés",
+                    "Property": "Soulage la plupart des problèmes cutanés."
+                }
+                {
+                    "id": "Angélique",
+                    "name": "Angélique",
+                    "Property": "Stimulant, Soulage les symptômes digestifs."
+                }
+                {
+                    "id": "Arnica",
+                    "name":"Arnica",
+                    "Property": "Anti-inflammatoire, antalgique, contre-coup."
+                }
+                {
+                    "id": "Artichaut",
+                    "name":"Artichaut",
+                    "Property": "Digestif, Diurétique, Dépuratif, Protecteur du foie et des reins."
+                }
+                {
+                    "id": "Aubépine",
+                    "name": "Aubépine",
+                    "Property": "Adoucissante pour la gorge."
+                }
+                {
+                    "id": "Avocat",
+                    "name": "Avocat",
+                    "Property": "Source de nombreux nutriments, nourrit et répare la peau et les cheveux abîmés."
+                }
+                {
+                    "id": "Bardanne",
+                    "name": "Bardanne",
+                    "Property": "Assainissante et dépurative, réputée pour purifer et renforcer la peau."
+                }
+                {
+                    "id": "Bourrache",
+                    "name": "Bourrache",
+                    "Property": "Cicatrisante, émolliente, tonique cutanée"
+                }
+                {
+                    "id": "Calendula",
+                    "name": "Calendula",
+                    "Property": "Calmant, apaise les affections respiratoires, soulage les plaies, les brulures, l'eczéma."
+                }
+                {
+                    "id": "Camomille",
+                    "name": "Camomille",
+                    "Property": "Calmante, adoucissante, digestive."
+                }
+                {
+                    "id": "Capucine"
+                    "name": "Capucine",
+                    "Property": "Antimicrobienne, réputée pour les soins capillaires."
+                }
+                {
+                    "id": "Carotte",
+                    "name": "Carotte",
+                    "Property": "Riche en antioxydants, nourrissante, adoucissante, effet bonne mine."
+                }
+                {
+                    "id": "Canelle",
+                    "name": "Canelle",
+                    "Property": "Tonique, antiseptique, antidouleur."
+                }
+                {
+                    "id": "Citron",
+                    "name": "Citron",
+                    "Property": "Tonique, digestif, antiseptique, adoucissant."
+                }
+                {
+                    "id": "Coquelicot",
+                    "name": "Coquelicot",
+                    "Property": "Antispasmodique, antitussif, adoucissant."
+                }
+                {
+                    "id": "Estragon",
+                    "name": "Estragon",
+                    "Property": "Digestif, antispasmodique (hoquet, coliques)"
+                }
+                {
+                    "id": "Eucalyptus",
+                    "name": "Eucalyptus",
+                    "Property": "Soulage et prévient les affections respiratoires."
+                }
+                {
+                    "id": "Fenouil",
+                    "name": "Fenouil",
+                    "Property": "Digestif et anticarminatif (anti-gaz)."
+                }
+                {
+                    "id": "Ginkgo biloba",
+                    "name": "Ginkgo biloba",
+                    "Property": "Riche en antioxidants, renforce les vaisseaux et améliore la circulation cérébrale."
+                }
+                {
+                    "id": "Citron",
+                    "name": "Guimauve",
+                    "Property": "Adoucissante, pectorale, anti-inflamatoire."
+                }
+                {
+                    "id": "Hamamélis",
+                    "name": "Hamamélis",
+                    "Property": "Astringent et stimulant vasculaire."
+                }
+                {
+                    "id": "Hélichryse",
+                    "name": "Hélichryse",
+                    "Property": "Antiâge, antiride, calme les coups, bosses, hématomes."
+                }
+                {
+                    "id": "Lavande",
+                    "name": "Lavande",
+                    "Property": "Calmante, sédative, cicatrisante, antiseptique."
+                }
+                {
+                    "id": "Lierre Grimpant",
+                    "name": "Lierre Grimpant",
+                    "Property": "Antitussif, cicatrisant, amincissant, tonique circulatoire."
+                }
+                {
+                    "id": "Mauve",
+                    "name": "Mauve",
+                    "Property": "Adoucissante, pectorale, anti-inflammatoire."
+                }
+                {
+                    "id": "Menthe",
+                    "name": "Menthe",
+                    "Property": "Purifiante, rafraichissante, stimulante, tonifiante."
+                }
+                {
+                    "id": "Millepertuis",
+                    "name": "Millepertuis",
+                    "Property": "Utile contre les irritations, et les douleurs articulaires."
+                }
+                {
+                    "id": "Ortie",
+                    "name": "Ortie",
+                    "Property": "Défatigante, reconstituante, reminéralisante, soulage l'eczéma et les douleur articulaires."
+                }
+                {
+                    "id": "Passiflore",
+                    "name": "Passiflore",
+                    "Property": "Apaisante sédative."
+                }
+                {
+                    "id": "Pensée sauvage",
+                    "name": "Pensée sauvage",
+                    "Property": "Dépurative, notamment en cas d'affections cutanées."
+                }
+                {
+                    "id": "Pin sylvestre"
+                    "name": "Pin sylvestre",
+                    "Property": "Tonique, expectorant, antiseptique, rubéfiant."
+                }
+                {
+                    "id": "Pissenlit",
+                    "name": "Pissenlit",
+                    "Property": "Digestif, diurétique et dépuratif (racines). Antioxidant, anti-inflammatoire (fleurs)."
+                }
+                {
+                    "id": "Reine des prés",
+                    "name": "Reine des prés",
+                    "Property": "Anti-inflammatoire, digestive, cicatrisante et dépurative."
+                }
+                {
+                    "id": "Ronce",
+                    "name": "Ronce",
+                    "Property": "Utile contre les maux de gorge ou les aphtes, cicatrisante."
+                }
+                {
+                    "id": "Sauge",
+                    "name": "Sauge",
+                    "Property": "Soulage rhumes, indigestion, piqures d'insectes, irritations cutanées, contusions"
+                }
+                {
+                    "id": "Thym",
+                    "name": "Thym",
+                    "Property": "Digestif, aide à prévenir ou soulager les rhumes"
+                }
+                {
+                    "id": "Tilleul",
+                    "name": "Tilleul",
+                    "Property": "Calmant, relaxant, sédatif."
+                }
+                {
+                    "id": "Verveine citronnelle",
+                    "name": "Verveine citronnelle",
+                    "Property": "Digestive, calmante (sédative)."
+                }
+                {
+                    "id": "Violette odorante",
+                    "name": "Violette odorante",
+                    "Property": "Antitussive, expectorante, sudorifique, calmante, émolliente."
+                }
+            ]
+}
